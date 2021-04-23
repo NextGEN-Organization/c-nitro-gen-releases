@@ -14,4 +14,6 @@ I will release a nitro sniper that reports all USED nitro codes to me, so I can 
 I need a large codebase to work with.
 
 
+### Contributors:
 - Gen
+- Rob
